@@ -1,5 +1,5 @@
 #define BLYNK_TEMPLATE_ID "TMPL6gncTggs5"
-#define BLYNK_TEMPLATE_NAME "Smart Home Electricity Meters"
+#define BLYNK_TEMPLATE_NAME "c"
 #define BLYNK_AUTH_TOKEN "tGGT9GS7qZLzD_55Y4HEhB9fnOS0NmXX"
 
 #include <WiFi.h>
